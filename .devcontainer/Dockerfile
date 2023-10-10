@@ -1,1 +1,1 @@
-FROM nodejs/devcontainer:nightly
+FROM nodejs/devcontainer:nightly@sha256:8ee0a4f24a11055b41e57a5b2796a84e29d22e7d44eaf187a9fb7996dbe3e616
